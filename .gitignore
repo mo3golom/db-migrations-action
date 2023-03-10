@@ -1,0 +1,6 @@
+/docker/
+/.env.hide
+.DS_Store
+
+
+.idea
