@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'DB migrations based on golang/migrate'
+description: 'DB migrations based on golang/migrate'
 inputs:
   db-connection:
     description: 'db connection string'
